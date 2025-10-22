@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "studio-mars-logo",
+      "description": "Studio Mars full logo",
+      "imageUrl": "https://res.cloudinary.com/drswibb0s/image/upload/v1755501663/Logo_Completo_tpoaox.png",
+      "imageHint": "logo text"
+    },
+    {
+      "id": "go-delivery-logo",
+      "description": "Go Delivery vectorized logo",
+      "imageUrl": "https://res.cloudinary.com/drswibb0s/image/upload/v1758686485/logo_vectorizado_xglfzi.svg",
+      "imageHint": "logo delivery"
+    },
+    {
+      "id": "slide2-restaurant",
+      "description": "Restaurant owner cooking",
+      "imageUrl": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjaGVmJTIwY29va2luZ3xlbnwwfHx8fDE3NjA5NTk1NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chef cooking"
+    },
+    {
+      "id": "slide2-driver",
+      "description": "Delivery driver on a scooter in the rain",
+      "imageUrl": "https://images.unsplash.com/photo-1726465212010-355461960281?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkZWxpdmVyeSUyMHJhaW58ZW58MHx8fHwxNzYwOTY3ODAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "delivery rain"
+    },
+    {
+      "id": "slide3-soda",
+      "description": "A bottle of soda",
+      "imageUrl": "https://images.unsplash.com/photo-1543516557-1e16c257146a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzb2RhJTIwYm90dGxlfGVufDB8fHx8MTc2MDkxMDQ4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soda bottle"
+    },
+    {
+      "id": "slide6-map",
+      "description": "Map of Mexico with San Luis Potosi highlighted",
+      "imageUrl": "https://images.unsplash.com/photo-1542339754-fe63b8476ab7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWV4aWNvJTIwbWFwfGVufDB8fHx8MTc2MDk2NzgwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mexico map"
+    },
+    {
+      "id": "slide7-platform",
+      "description": "Screenshot of the web platform",
+      "imageUrl": "https://res.cloudinary.com/drswibb0s/image/upload/v1755801400/7360446d-70fd-4492-9067-2696f74405ee.png",
+      "imageHint": "web platform"
+    },
+    {
+      "id": "slide7-google-play",
+      "description": "Screenshot of Google Play listing",
+      "imageUrl": "https://res.cloudinary.com/drswibb0s/image/upload/v1760985547/Captura_de_pantalla_2025-10-20_123827_kiyqlj.png",
+      "imageHint": "mobile app"
+    },
+    {
+      "id": "slide7-market-knowledge",
+      "description": "Delivery driver picking up an order from a restaurant",
+      "imageUrl": "https://images.unsplash.com/photo-1623341214825-9f4f963727da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkZWxpdmVyeSUyMHBpY2t1cHxlbnwwfHx8fDE3NjA5ODU5MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "delivery pickup"
+    },
+    {
+      "id": "slide7-real-experience",
+      "description": "Photo of Mario Rico",
+      "imageUrl": "https://res.cloudinary.com/drswibb0s/image/upload/v1755802161/e9e67cf9-55de-4b76-a6a6-03a5b8824f14.png",
+      "imageHint": "portrait man"
+    }
+  ]
+}
