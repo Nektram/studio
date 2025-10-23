@@ -27,32 +27,7 @@ export function Slide10() {
           </p>
         </div>
 
-        {/* Key Metrics - Hero Numbers */}
-        <div className="grid md:grid-cols-2 gap-8 w-full max-w-6xl animate-slide-fade-scale opacity-0 delay-200">
-          <Card className="relative overflow-hidden border-2 border-primary/30 bg-gradient-to-br from-primary/5 to-primary/10">
-            <CardHeader className="text-center pb-2">
-              <Badge variant="secondary" className="w-fit mx-auto mb-2">Año 1</Badge>
-              <CardTitle className="text-2xl">50 Restaurantes</CardTitle>
-            </CardHeader>
-            <CardContent className="text-center">
-              <p className="text-6xl font-black text-primary mb-2">$598K</p>
-              <p className="text-lg text-muted-foreground">Ingresos anuales</p>
-            </CardContent>
-            <div className="absolute -right-8 -bottom-8 w-32 h-32 bg-primary/10 rounded-full blur-2xl" />
-          </Card>
 
-          <Card className="relative overflow-hidden border-2 border-primary/30 bg-gradient-to-br from-primary/10 to-primary/5">
-            <CardHeader className="text-center pb-2">
-              <Badge variant="secondary" className="w-fit mx-auto mb-2">Año 3</Badge>
-              <CardTitle className="text-2xl">500 Restaurantes</CardTitle>
-            </CardHeader>
-            <CardContent className="text-center">
-              <p className="text-6xl font-black text-primary mb-2">$6.0M</p>
-              <p className="text-lg text-muted-foreground">Ingresos anuales</p>
-            </CardContent>
-            <div className="absolute -left-8 -bottom-8 w-32 h-32 bg-primary/10 rounded-full blur-2xl" />
-          </Card>
-        </div>
 
         {/* Validation Grid - Compact */}
         <div className="grid md:grid-cols-3 gap-6 w-full max-w-6xl animate-slide-parallax-left opacity-0 delay-300">

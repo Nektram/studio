@@ -34,7 +34,7 @@ export function Slide6() {
   }, []);
   return (
     <SlideWrapper>
-      <div ref={rootRef} className="flex flex-col items-center gap-6 animate-slide-fade-up w-full" style={{ transform: 'scale(1.1)' }}>
+      <div ref={rootRef} className="flex flex-col items-center gap-6 animate-slide-fade-up w-full relative" style={{ transform: 'scale(1.1)' }}>
         <h2 className="text-4xl md:text-5xl font-bold">Ya Funcionando en San Luis Potosí</h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 w-full max-w-6xl">
           <Card className="hover-card animate-slide-parallax-left opacity-0 delay-200">
@@ -66,10 +66,10 @@ export function Slide6() {
                 <Globe className="h-7 w-7 text-primary" />
               </div>
               <CardTitle>Mercado Total (México)</CardTitle>
-              <CardDescription className="font-light">INEGI</CardDescription>
+              <CardDescription className="font-light">DENUE 2025</CardDescription>
             </CardHeader>
             <CardContent>
-              <p className="text-3xl font-bold"><AnimatedCounter value={visible ? 600000 : 0} duration={2600} formatter={(v) => `${Math.round(v/1000)}K`} /></p>
+              <p className="text-3xl font-bold"><AnimatedCounter value={visible ? 736367 : 0} duration={2600} formatter={(v) => `${Math.round(v/1000)}K`} /></p>
             </CardContent>
           </Card>
            <Card className="hover-card animate-slide-fade-up opacity-0 delay-500">
@@ -111,7 +111,7 @@ export function Slide6() {
             </Card>
             <div className="flex flex-col gap-6">
                  <Card className="flex-1 hover-card animate-slide-fade-scale opacity-0 delay-700">
-                    <CardHeader>
+                    <CardHeader className="items-center text-center">
                         <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center">
                           <Award className="h-7 w-7 text-primary" />
                         </div>
@@ -131,6 +131,26 @@ export function Slide6() {
                   </CardContent>
                 </Card>
             </div>
+        </div>
+
+  {/* Fuente en la esquina inferior derecha - clickeable */}
+  <div className="absolute bottom-0 right-[-12] z-10 text-right">
+          <a
+            href="https://www.economia.gob.mx/datamexico/es/profile/industry/restaurants-and-other-eating-places"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block text-xs text-muted-foreground/80 hover:text-muted-foreground leading-tight transition-colors underline-offset-2 hover:underline"
+          >
+            Fuente: DENUE 2025 - Secretaría de Economía
+          </a>
+          <a
+            href="https://www.businessresearchinsights.com/market-reports/mexican-restaurants-market-117881"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block text-[11px] text-muted-foreground/75 hover:text-muted-foreground mt-0.5 underline-offset-2 hover:underline"
+          >
+            Business Research Insights (2025): 55% adopción plataformas delivery
+          </a>
         </div>
       </div>
     </SlideWrapper>

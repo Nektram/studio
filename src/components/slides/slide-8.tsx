@@ -59,10 +59,10 @@ export function Slide8() {
                  <Card className="hover-card animate-slide-fade-up opacity-0 delay-600">
                     <CardHeader>
                         <div className="w-16 h-16 mx-auto rounded-xl bg-primary/10 flex items-center justify-center">
-                          <Lightbulb className="h-9 w-9 text-primary" />
+                          <DollarSign className="h-9 w-9 text-primary" />
                         </div>
-                        <CardTitle className="text-2xl mt-3">Único Modelo</CardTitle>
-                         <CardDescription className="text-sm font-light">Sin comisiones</CardDescription>
+                        <CardTitle className="text-2xl mt-3">Márgenes Altos</CardTitle>
+                         <CardDescription className="text-sm font-light">Costos operativos mínimos</CardDescription>
                     </CardHeader>
                 </Card>
             </div>

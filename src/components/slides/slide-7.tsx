@@ -50,7 +50,7 @@ export function Slide7() {
               </div>
               <div>
                 <h3 className="font-semibold text-2xl">App Móvil de Drivers</h3>
-                <p className="text-lg text-muted-foreground font-light">En revisión en Google Play, lista para el despliegue.</p>
+                <p className="text-lg text-muted-foreground font-light">Ya publicada y disponible en Google Play Store.</p>
               </div>
             </div>
              <div className="flex items-start gap-6">
@@ -84,14 +84,14 @@ export function Slide7() {
           <div className="flex flex-col gap-4 animate-slide-parallax-right opacity-0 delay-300">
             {/* Link y QR arriba del carrusel */}
             <div className="flex items-center justify-end gap-4">
-              <a href="https://godelivery.app" target="_blank" rel="noopener noreferrer" className="text-primary text-2xl font-semibold underline-offset-4 hover:underline">
+              <a href="https://godelivery.app" target="_blank" rel="noopener noreferrer" className="text-primary text-4xl font-semibold underline-offset-4 hover:underline">
                 https://godelivery.app
               </a>
               <Image 
                 src="https://res.cloudinary.com/drswibb0s/image/upload/v1761144913/qr-code_b4xuxk.png"
                 alt="QR Go Delivery"
-                width={220}
-                height={220}
+                width={320}
+                height={320}
                 className="rounded-md border border-primary/20"
               />
             </div>
