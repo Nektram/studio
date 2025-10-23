@@ -134,7 +134,7 @@ export function Slide6() {
         </div>
 
   {/* Fuente en la esquina inferior derecha - clickeable */}
-  <div className="absolute bottom-0 right-[-12] z-10 text-right">
+  <div className="absolute bottom-0 right-[-150px] z-10 text-right">
           <a
             href="https://www.economia.gob.mx/datamexico/es/profile/industry/restaurants-and-other-eating-places"
             target="_blank"
