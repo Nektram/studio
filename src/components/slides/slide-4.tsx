@@ -50,11 +50,14 @@ export function Slide4() {
                 Tú eliges cómo recibir tu dinero
               </p>
               <div className="flex justify-center gap-2 pt-2">
-                <Badge variant="secondary" className="text-xs font-light"> Efectivo</Badge>
-                <Badge variant="secondary" className="text-xs font-light"> Tarjeta</Badge>
-                <Badge variant="secondary" className="text-xs font-light"> Transfer</Badge>
+                <Badge variant="secondary" className="text-xs font-light">Efectivo</Badge>
+                <Badge variant="secondary" className="text-xs font-light">Tarjeta</Badge>
+                <Badge variant="secondary" className="text-xs font-light">Transfer</Badge>
               </div>
-              <p className="text-xs text-muted-foreground mt-2">Pagos con tarjeta: inicio en noviembre (Proyecciones)</p>
+              <div className="bg-primary/5 border border-primary/20 rounded-lg p-3 mt-3">
+                <p className="text-xs text-primary font-medium">Cliente: solo 1.32% en checkout</p>
+                <p className="text-xs text-muted-foreground">vs 7-8% de la competencia</p>
+              </div>
             </CardContent>
           </Card>
 

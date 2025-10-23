@@ -28,7 +28,7 @@ Con el premio de CREO MX, contrataría a 2 personas de ventas para acelerar esto
 
 **R:** 
 - **CAC actual:** Aproximadamente $800 pesos por restaurante (entre tiempo de ventas y marketing).
-- **LTV:** Si un restaurante se queda 2 años pagando $400/mes, son $9,600 pesos. Eso nos da un **ratio LTV:CAC de 12:1**, extremadamente saludable.
+- **LTV:** Si un restaurante se queda 2 años pagando $400/mes más ingresos de procesamiento de pagos (1.32% promedio), considerando ventas promedio de $20,000/mes, el LTV es aproximadamente $10,200 pesos. Eso nos da un **ratio LTV:CAC de 12.7:1**, extremadamente saludable.
 - La mayoría de nuestros clientes actuales llevan más de 6 meses con nosotros, lo que valida la retención.
 
 ---
@@ -66,7 +66,8 @@ Pero aquí está lo importante: incluso con solo 2 pedidos de $500 al día, con 
 ### **P: "Ya hay otras startups que ofrecen delivery sin comisión. ¿Qué te hace diferente?"**
 
 **R:** Conozco a algunos competidores, pero tienen problemas clave:
-- **Modelo híbrido:** Cobran suscripción PERO también comisiones bajas. Eso confunde al cliente. Nosotros somos 100% suscripción.
+- **Modelo híbrido:** Cobran suscripción PERO también comisiones altas. Eso confunde al cliente. Nosotros somos transparentes: $400/mes al restaurante + 1.32% al cliente en checkout únicamente.
+- **Cobran a ambos lados:** Muchos cobran al restaurante Y al cliente. Nosotros cobramos al restaurante la suscripción fija y al cliente solo el costo real de procesamiento de pagos.
 - **No tienen tecnología propia:** Dependen de integraciones con plataformas de terceros. Nosotros controlamos todo el stack tecnológico.
 - **No conocen el mercado local:** Son equipos de CDMX tratando de escalar sin entender las necesidades de restaurantes de ciudades medianas. Yo nací, estudio y vivo en San Luis. Conozco a mis clientes.
 
@@ -109,8 +110,16 @@ Esto nos da una ventaja competitiva enorme: tecnología propia, escalable y ya v
 ### **P: "¿Qué pasa si los restaurantes prefieren seguir en Uber Eats porque tienen más clientes ahí?"**
 
 **R:** No es una competencia de "o nosotros o ellos". Nuestro modelo permite que los restaurantes **usen ambas plataformas:**
-- **Uber Eats** les trae clientes nuevos que descubren el restaurante por primera vez. El problema es que Uber Eats fuerza a los restaurantes a inflar sus precios para compensar la comisión del 42%.
-- **Con nosotros**, los restaurantes migran a esos clientes como recurrentes y son ellos mismos los que recomiendan mejores precios en godelivery.app, donde no hay comisión y pueden ofrecer el precio real.
+- **Uber Eats** les trae clientes nuevos que descubren el restaurante por primera vez. El problema es que Uber Eats cobra 42% al restaurante + 7-8% al cliente como "tarifa de servicio" en el checkout.
+- **Con nosotros**, los restaurantes migran a esos clientes como recurrentes. El restaurante paga solo $400/mes y el cliente solo 1.32% en el checkout. Pueden ofrecer mejores precios porque no están inflados por comisiones abusivas.
+
+**Seamos claros sobre nuestra estructura de costos:**
+- **Al restaurante:** $400/mes de suscripción, sin comisiones por pedido
+- **Al cliente:** 1.32% promedio ponderado en el checkout por procesamiento de pagos (40% tarjeta 2.54%, 30% transferencia 1%, 30% efectivo 0%). Esta tarifa mínima cubre costos operativos, tecnológicos y de seguridad.
+
+**Comparación completa:**
+- **Competencia:** 42% al restaurante + 7-8% al cliente = Ambos pierden
+- **Nosotros:** $400/mes al restaurante + 1.32% al cliente = Ambos ganan
 
 De hecho, varios de nuestros restaurantes siguen en Uber Eats pero han reducido su dependencia. Eso ya es una victoria para ellos y para nosotros. Al final, el cliente gana porque paga menos, y el restaurante gana porque se queda con más.
 
@@ -299,7 +308,7 @@ Todo está planeado al centavo. Nada se va a "gastos generales".
 
 **R:** Sí. Esto no es solo un negocio para mí. Vi a mi familia luchar con un restaurante, vi a compañeros repartidores arriesgar su vida por $14 pesos, y dije: tiene que haber una manera mejor. Y la construí. Ahora necesito su apoyo para llevarla a miles de restaurantes más. **Inviertan en Go Delivery. Inviertan en México.**
 
----
+---                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 
 ## 📝 NOTAS FINALES PARA LA PRESENTACIÓN
 

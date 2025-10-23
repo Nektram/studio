@@ -1,103 +1,174 @@
-# **App Name**: Go Delivery
+# **Studio Mars Net/Go Delivery** - Presentación CREO MX
+
+## Información Actualizada (Octubre 2025)
+
+- **App Publicada:** Disponible en Google Play Store
+- **Restaurantes Activos:** 19 en San Luis Potosí
+- **Proyección Año 1:** $598,000 MXN (50 restaurantes)
+- **Mercado Total:** 736,367 restaurantes en México (DENUE 2025)
+- **Competidores:** 153,000 restaurantes ya en apps de delivery
+- **Modelo:** SaaS con suscripción mensual ($400/mes) + servicios adicionales
+- **Tecnología:** Next.js + TypeScript + Flutter (app móvil)
 
 ## Core Features:
 
-- Commission-Free Delivery Service: Provides restaurants with a delivery service that doesn't charge per-order commissions, but instead charges a fixed monthly fee.
-- Direct Connection with Local Delivery Drivers: Connects restaurants directly with independent local delivery drivers in their city.
-- Payment Flexibility: Enables restaurants to accept payments in cash, via bank transfer, or by credit card.
-- Restaurant Web Design: Offers restaurants Studio Mars web design capabilities, fully integrated with the delivery platform.
+- **Suscripción Sin Comisiones al Restaurante:** $400/mes fijo, sin comisiones por pedido
+- **Conexión Directa:** Restaurantes conectados con repartidores locales independientes
+- **Pagos Flexibles:** Efectivo, transferencia bancaria, tarjetas de crédito
+  - *Transparencia en Tarifas al Cliente:* El cliente paga solo 1.32% promedio ponderado por procesamiento de pagos en el checkout (40% tarjeta 2.54%, 30% transferencia 1%, 30% efectivo 0%). Esta tarifa mínima cubre costos operativos, tecnológicos y de seguridad.
+  - *Comparación:* Las grandes plataformas cobran 42% al restaurante + 7-8% al cliente. Nosotros: $400/mes al restaurante + 1.32% al cliente.
+- **Tecnología Propia:** Plataforma web + app móvil desarrollada por Studio Mars
+- **Legal y Seguro:** En proceso de registro RESICO, operaciones dentro del marco legal mexicano
 
 ## Style Guidelines:
 
-- ## REQUISITOS TÉCNICOS
-- Framework: Reveal.js 4.0+ 
-- Diseño: desktop
-- Animaciones: Transiciones suaves entre slides
-- Tipografía: Fuente moderna (Inter o similar)
-- Performance: Optimizado para presentación en vivo
+### REQUISITOS TÉCNICOS
+- **Framework:** Next.js 15 + TypeScript
+- **Diseño:** Responsive (desktop + mobile)
+- **Animaciones:** CSS transitions + Framer Motion
+- **Tipografía:** Inter (moderna y legible)
+- **Performance:** Optimizado para presentaciones en vivo
 
-## PALETA DE COLORES CORPORATIVA (TEMA OSCURO)
-- Primario: #FF6F00 (Naranja brillante)
-- Background: #1A191C (Gris oscuro)
-- Card/Módulos: #1E1D21 (Gris ligeramente más claro)
-- Acento/Hover: #37363B (Gris para elementos hover)
-- Texto Principal: #FAFAFA (Blanco roto)
-- Texto Silenciado: #999999 (Gris claro para descripciones)
+### PALETA DE COLORES CORPORATIVA (Tema Oscuro)
+- **Primario:** #FF6F00 (Naranja brillante - Studio Mars)
+- **Background:** #1A191C (Gris oscuro)
+- **Cards/Módulos:** #1E1D21 (Gris ligeramente más claro)
+- **Acento/Hover:** #37363B (Gris para elementos interactivos)
+- **Texto Principal:** #FAFAFA (Blanco roto)
+- **Texto Secundario:** #999999 (Gris claro)
 
 ## ESTRUCTURA DE SLIDES (10 slides total)
 
 ### Slide 1: TÍTULO + HOOK
-- Título: "Studio Mars: Diseño Web y Delivery para Restaurantes en SLP"
-- Subtítulo: "Go Delivery - Devolviendo el Control a los Restaurantes Mexicanos"
-- Estadística impactante: "¡PUM! $420 de cada $1000 se lo llevan las plataformas"
-- Presentador: "Mario Rico, estudiante UTAN San Luis"
-- Logo centrado
-- Animación de entrada dramática
+- **Título:** "Studio Mars"
+- **Tagline:** "Innovación Tecnológica para Restaurantes Mexicanos"
+- **Presentador:** Mario Rico, estudiante UTAN San Luis
+- **Logo:** Go Delivery con QR code
+- **Animación:** Fade-in dramático con escala
 
-### Slide 2: EL PROBLEMA PERSONAL
-- Título: "Lo Viví en Carne Propia"
-- Historia visual de Mario:
-  * Dueño de restaurante: "Me levantaba a las 6 AM, cocinaba, me quemaba..."
-  * Repartidor: "$14 pesos por viaje, arriesgando mi vida bajo la lluvia"
-  * Plataformas: Se quedan con $420 de cada $1000
-- Elemento visual: Split screen mostrando el esfuerzo vs la ganancia injusta
-- Animación emocional y personal
+### Slide 2: EL PROBLEMA
+- **Título:** "El Problema que Viví"
+- **Historia Personal:** Experiencia como dueño de restaurante y repartidor
+- **Estadística:** $420 de cada $1,000 se van en comisiones (42%)
+- **Visual:** Comparación visual del esfuerzo vs ganancia injusta
+- **Hook:** "¿Por qué las plataformas se quedan con casi la mitad?"
 
-### Slide 3: IMPACTO REAL
-- Título: "Solo $13 Pesos al Día"
-- Comparación lado a lado:
-  * Plataformas: $420 de cada $1000 (42%)
-  * Go Delivery: $13/día fijo - SIN comisiones
-  * Ahorro mensual = $12,600 pesos vs competencia
-- Elemento visual: "Menos que un refresco vs casi la mitad de tus ventas"
-- Transición con efecto de dinero
-- Analogía: "Como Netflix, pero para delivery"
+### Slide 3: LA SOLUCIÓN
+- **Título:** "Nuestra Solución Radical"
+- **Modelo:** Suscripción fija vs comisiones variables
+- **Beneficio Principal:** $13/día vs $420 por cada $1,000
+- **Analogía:** "Como Netflix, pero para delivery"
+- **Visual:** Comparación lado a lado con animaciones
 
-### Slide 4: NUESTRA SOLUCIÓN
-- Título: "Studio Mars presenta Go Delivery"
-- 3 pilares principales:
-  * 💳 Pagos flexibles (Efectivo + Transferencia + Tarjeta)
-  * 🧑‍🤝‍🧑 Repartidores independientes locales de San Luis
-  * ⚖️ Totalmente legal (En proceso de registro RESICO)
-- Elemento central: "Mensualidad fija, NO comisiones"
-- Animación secuencial de aparición
-- Nota: "Plataforma terminada y funcionando en San Luis"
+### Slide 4: BENEFICIOS COMPLETOS
+- **Pagos Flexibles:** Efectivo, transferencia, tarjeta
+  - *Transparencia:* Cliente paga solo 1.32% promedio en checkout (vs 7-8% de competencia)
+  - *Restaurante:* $400/mes fijo (vs 42% de comisión de competencia)
+- **Repartidores Locales:** Independientes de San Luis Potosí
+- **Legal:** Proceso RESICO en marcha
+- **Tecnología:** Plataforma completa funcionando
+- **Visual:** Iconos con animaciones secuenciales
 
 ### Slide 5: MODELO DE NEGOCIO
-- Título: "Modelo Simple y Justo"
-- Diagrama de flujos de ingresos:
-  * Suscripción: $400/mes por restaurante
-  * 0% comisiones por transacción
-  * Servicios adicionales: Diseño web, fotografía, marketing
-- Comparación: "Restaurante ahorra $4,500/mes vs antes"
-- Gráfico de crecimiento proyectado
-- Nota: "Ya funcionando en San Luis Potosí"
+- **Suscripción al Restaurante:** $400/mes fijo
+- **Procesamiento al Cliente:** 1.32% promedio ponderado en checkout
+- **Comparación Total:** 42% restaurante + 7-8% cliente (competencia) vs $400/mes + 1.32% cliente (nosotros)
+- **Servicios Adicionales:** Diseño web, marketing, fotografía
+- **Proyección:** $598K MXN año 1 con 50 restaurantes
+- **Visual:** Diagrama de ingresos + gráfico de crecimiento
 
 ### Slide 6: TRACCIÓN Y MERCADO
-- Título: "Ya Funcionando en San Luis Potosí"
-- Métricas clave con animaciones:
-  * Restaurantes reales usando la plataforma
-  * $500K MXN proyectados Año 1 (50 restaurantes)
-  * 600,000 restaurantes total en México (INEGI)
-  * 150,000 ya en apps de delivery
-  * Finalistas CREO MX
-- Mapa de México con San Luis Potosí destacado y expansión futura
-- Testimonio: "Restaurantes ahorran $4,500/mes"
+- **Título:** "Ya Funcionando en San Luis Potosí"
+- **Métricas Animadas:**
+  - 19 restaurantes activos
+  - $598K MXN proyectados año 1
+  - 736K restaurantes total en México
+  - +153K ya en apps de delivery
+- **Reconocimiento:** Finalistas CREO MX
+- **Testimonios:** Comentarios reales de restaurantes
+- **Mapa:** San Luis Potosí destacado con expansión futura
 
 ### Slide 7: TECNOLOGÍA PROPIETARIA
-- Título: "Programé Todo Yo Mismo"
-- Diagrama técnico simplificado:
-  * Plataforma web funcionando
-  * App móvil de drivers (en revisión Google Play)
-  * Conocimiento del mercado mexicano
-  * Experiencia real: dueño + repartidor
-- Elementos visuales de código/tecnología
-- Contraste: "Conocimiento local vs fórmulas extranjeras"
-- Nota: "Colonia por colonia, restaurante por restaurante"
+- **Título:** "Creado con Tecnología Propia"
+- **Stack:**
+  - Plataforma web funcional (Next.js)
+  - App móvil publicada en Google Play
+  - Conocimiento del mercado mexicano
+  - Experiencia real en la industria
+- **Ventaja:** Solución pensada por y para México
+- **Visual:** Screenshots + QR code + carousel de imágenes
 
 ### Slide 8: VENTAJA COMPETITIVA
-- Título: "¿Por Qué las Plataformas No Hacen lo Mismo?"
-- Respuesta central: "Porque ya ganan mucho dinero con el modelo actual"
+- **Título:** "¿Por Qué No lo Hacen las Grandes Plataformas?"
+- **Respuesta:** Ya ganan suficiente con el modelo actual
+- **Nuestras Ventajas:**
+  - Márgenes altos (bajos costos operativos)
+  - Modelo justo que beneficia a todos
+  - Tecnología local vs fórmulas extranjeras
+  - Enfoque en crecimiento sostenible
+- **Visual:** Comparación de modelos de negocio
+
+### Slide 9: FINANZAS Y PROYECCIONES
+- **Inversión Inicial:** $50K MXN (ahorros personales)
+- **CAC:** $800 MXN por restaurante
+- **LTV:** $9,600 MXN (2 años promedio)
+- **Ratio LTV:CAC:** 12:1
+- **Proyección:** $598K MXN año 1, escalable a $2.4M año 2
+- **Visual:** Gráficos de crecimiento + métricas financieras
+
+### Slide 10: LLAMADO A LA ACCIÓN
+- **Título:** "El Momento de Actuar"
+- **Mensaje Final:** "Colonia por colonia, restaurante por restaurante"
+- **Premio Solicitado:** $100,000 MXN
+- **Uso del Premio:** Acelerar expansión, contratar equipo de ventas
+- **Impacto:** Democratizar el delivery en México
+- **Visual:** Mapa de expansión + estadísticas finales
+
+## Pitch 5-Minutos (Optimizado para Jurado)
+
+### [0:00-0:30] Hook + Problema
+- Impactante: $420 de cada $1,000 se van en comisiones
+- Personal: Experiencia como dueño y repartidor
+- Emocional: Injusticia del sistema actual
+
+### [0:30-1:30] Solución Innovadora
+- Modelo SaaS puro vs transaccional
+- $13/día fijo vs 42% comisiones
+- Beneficios: pagos flexibles, repartidores locales, legal
+
+### [1:30-2:30] Tracción + Mercado
+- 19 restaurantes activos validando el modelo
+- Mercado de 736K restaurantes en México
+- Proyección realista: $598K MXN año 1
+- Finalistas CREO MX
+
+### [2:30-3:30] Equipo + Tecnología
+- Desarrollado por Mario Rico (solo)
+- Stack técnico completo y probado
+- App móvil ya en Google Play
+- Conocimiento local del mercado
+
+### [3:30-5:00] Petición + Cierre
+- $100K MXN para acelerar crecimiento
+- Impacto en la industria restaurantera mexicana
+- Visión: "Colonia por colonia, restaurante por restaurante"
+
+## Preguntas Frecuentes del Jurado (Preparadas)
+
+- **Inversión:** $50K MXN de ahorros personales
+- **Adquisición:** Ventas directas + referidos + marketing local
+- **CAC/LTV:** $800/$9,600 (ratio 12:1)
+- **Escalabilidad:** Modelo probado, expansión geográfica
+- **Legal:** Proceso RESICO en marcha
+- **Competencia:** Enfoque en márgenes altos vs volumen bajo
+
+## Notas de Presentación
+
+- **Tiempo Total:** 5-7 minutos + 3-5 minutos Q&A
+- **Estilo:** Confidente, apasionado, datos-driven
+- **Transiciones:** Suaves con animaciones
+- **Backup:** Slides preparados para preguntas técnicas
+- **Cierre:** Enfocar en impacto real y potencial de crecimiento
 - Nuestras defensas:
   * Conocimiento local vs empresas extranjeras
   * Operación integrada (cambiar es difícil)

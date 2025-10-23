@@ -33,16 +33,20 @@ export function Slide3() {
                 Modelo Antiguo
               </Badge>
               <CardTitle className="text-3xl">Plataformas Tradicionales</CardTitle>
-              <CardDescription className="text-base font-light">El modelo de comisiones abusivas</CardDescription>
+              <CardDescription className="text-base font-light">Todos pierden (excepto ellos)</CardDescription>
             </CardHeader>
             <CardContent className="relative text-center space-y-6">
               <div className="space-y-3">
-                <div className="text-7xl font-bold text-destructive">
+                <div className="text-6xl font-bold text-destructive">
                   42%
                 </div>
-                <p className="text-xl font-light text-foreground/80">de cada venta</p>
+                <p className="text-lg font-light text-foreground/80">al restaurante por pedido</p>
+                <div className="text-4xl font-bold text-destructive/80 mt-2">
+                  +7-8%
+                </div>
+                <p className="text-lg font-light text-foreground/80">al cliente en checkout</p>
                 <div className="h-2 bg-destructive/10 rounded-full overflow-hidden">
-                  <div className="h-full w-[42%] bg-destructive rounded-full" />
+                  <div className="h-full w-[50%] bg-destructive rounded-full" />
                 </div>
               </div>
               <div className="bg-destructive/5 border border-destructive/10 p-5 rounded-xl space-y-2">
@@ -53,7 +57,7 @@ export function Slide3() {
                   -$420
                 </p>
                 <p className="text-sm text-destructive/80">
-                  Casi la mitad se va en comisiones e impuestos
+                  Más $70-80 extra que paga el cliente
                 </p>
               </div>
             </CardContent>
@@ -68,16 +72,20 @@ export function Slide3() {
                 Modelo Innovador
               </Badge>
               <CardTitle className="text-3xl text-primary">Go Delivery</CardTitle>
-              <CardDescription className="text-base font-light">Tu dinero, tus ganancias. Simple.</CardDescription>
+              <CardDescription className="text-base font-light">Todos ganan</CardDescription>
             </CardHeader>
             <CardContent className="relative text-center space-y-6">
               <div className="space-y-3">
-                <div className="text-7xl font-bold text-primary">
+                <div className="text-6xl font-bold text-primary">
                   $13
                 </div>
-                <p className="text-xl font-light text-foreground/80">por día, sin comisiones</p>
+                <p className="text-lg font-light text-foreground/80">al día para el restaurante</p>
+                <div className="text-4xl font-bold text-primary/80 mt-2">
+                  +1.32%
+                </div>
+                <p className="text-lg font-light text-foreground/80">al cliente en checkout</p>
                 <div className="h-2 bg-primary/10 rounded-full overflow-hidden">
-                  <div className="h-full w-[0%] bg-primary rounded-full" />
+                  <div className="h-full w-[1.5%] bg-primary rounded-full" />
                 </div>
               </div>
               <div className="bg-primary/5 border border-primary/10 p-5 rounded-xl space-y-2">
@@ -85,13 +93,13 @@ export function Slide3() {
                   Costo mensual fijo
                 </p>
                 <p className="text-4xl font-extrabold text-primary">
-                  $400
+                  $400/30 días = $13.33
                 </p>
                 <p className="text-sm text-primary/80">
-                  $400 mensual / 30 días = $13.33 al día
+                  Para el restaurante (sin comisiones por pedido)
                 </p>
                 <p className="text-sm text-primary/80 mt-1">
-                  Menos que un refresco al día
+                  Cliente paga solo procesamiento real
                 </p>
               </div>
             </CardContent>
@@ -100,7 +108,7 @@ export function Slide3() {
 
         <div className="animate-slide-fade-up opacity-0 delay-700">
           <p className="text-xl mt-2 font-light text-muted-foreground">
-            Es como <span className="text-primary font-semibold">Netflix</span>, pero para negocios.
+            Es como <span className="text-primary font-semibold">Netflix</span>, pero un delivery para negocios, que si genera ventas.
           </p>
         </div>
 

@@ -54,7 +54,7 @@ export function SlideRevenueDetails() {
               <div className="text-muted-foreground">
                 <p>Entre más restaurantes sumemos = más MRR</p>
                 <p>Entre más vendan = más comisiones</p>
-                <p className="font-semibold text-foreground">¡Todos ganan, nosotros también!</p>
+                <p className="font-semibold text-foreground">¡Es un GANAR-GANAR!</p>
               </div>
             </div>
           </CardContent>
