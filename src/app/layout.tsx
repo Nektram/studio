@@ -24,7 +24,7 @@ export default function RootLayout({
         />
         <link rel="icon" href="https://res.cloudinary.com/drswibb0s/image/upload/v1758686485/icon_p9vwts.png" type="image/png" sizes="any" />
       </head>
-      <body className={cn('font-body antialiased bg-background text-foreground')}>
+      <body className={cn('font-body antialiased bg-background text-foreground')} suppressHydrationWarning={true}>
         {children}
         <Toaster />
       </body>
