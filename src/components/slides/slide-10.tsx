@@ -30,44 +30,44 @@ export function Slide10() {
 
 
         {/* Validation Grid - Compact */}
-        <div className="grid md:grid-cols-3 gap-6 w-full max-w-6xl animate-slide-parallax-left opacity-0 delay-300">
-          <Card className="group hover-card border-border/50">
-            <CardHeader className="text-center space-y-3 pb-4">
-              <div className="mx-auto w-14 h-14 rounded-xl bg-primary/10 flex items-center justify-center group-hover:scale-110 transition-transform">
-                <Code className="h-7 w-7 text-primary" />
+        <div className="grid md:grid-cols-3 gap-8 w-full max-w-7xl animate-slide-parallax-left opacity-0 delay-300">
+          <Card className="group hover-card border-border/50 p-6">
+            <CardHeader className="text-center space-y-4 pb-6">
+              <div className="mx-auto w-20 h-20 rounded-xl bg-primary/10 flex items-center justify-center group-hover:scale-110 transition-transform">
+                <Code className="h-10 w-10 text-primary" />
               </div>
-              <CardTitle className="text-xl">Técnico</CardTitle>
+              <CardTitle className="text-3xl">Técnico</CardTitle>
             </CardHeader>
             <CardContent className="text-center">
-              <p className="text-sm text-muted-foreground leading-relaxed">
+              <p className="text-base text-muted-foreground leading-relaxed">
                 Next.js + app drivers lista. Pagos en noviembre. Stack probado.
               </p>
             </CardContent>
           </Card>
 
-          <Card className="group hover-card border-border/50">
-            <CardHeader className="text-center space-y-3 pb-4">
-              <div className="mx-auto w-14 h-14 rounded-xl bg-primary/10 flex items-center justify-center group-hover:scale-110 transition-transform">
-                <DollarSign className="h-7 w-7 text-primary" />
+          <Card className="group hover-card border-border/50 p-6">
+            <CardHeader className="text-center space-y-4 pb-6">
+              <div className="mx-auto w-20 h-20 rounded-xl bg-primary/10 flex items-center justify-center group-hover:scale-110 transition-transform">
+                <DollarSign className="h-10 w-10 text-primary" />
               </div>
-              <CardTitle className="text-xl">Financiero</CardTitle>
+              <CardTitle className="text-3xl">Financiero</CardTitle>
             </CardHeader>
             <CardContent className="text-center">
-              <p className="text-sm text-muted-foreground leading-relaxed">
+              <p className="text-base text-muted-foreground leading-relaxed">
                 MRR + comisiones. $598k año 1. Alto margen. Escalable.
               </p>
             </CardContent>
           </Card>
 
-          <Card className="group hover-card border-border/50">
-            <CardHeader className="text-center space-y-3 pb-4">
-              <div className="mx-auto w-14 h-14 rounded-xl bg-primary/10 flex items-center justify-center group-hover:scale-110 transition-transform">
-                <Users className="h-7 w-7 text-primary" />
+          <Card className="group hover-card border-border/50 p-6">
+            <CardHeader className="text-center space-y-4 pb-6">
+              <div className="mx-auto w-20 h-20 rounded-xl bg-primary/10 flex items-center justify-center group-hover:scale-110 transition-transform">
+                <Users className="h-10 w-10 text-primary" />
               </div>
-              <CardTitle className="text-xl">Operativo</CardTitle>
+              <CardTitle className="text-3xl">Operativo</CardTitle>
             </CardHeader>
             <CardContent className="text-center">
-              <p className="text-sm text-muted-foreground leading-relaxed">
+              <p className="text-base text-muted-foreground leading-relaxed">
                 Red local. Onboarding simple. Soporte humano cercano.
               </p>
             </CardContent>
@@ -76,7 +76,7 @@ export function Slide10() {
 
         {/* Final CTA - Maximum Impact */}
         <div className="text-center space-y-8 animate-slide-fade-up opacity-0 delay-500">
-          <div className="space-y-4">
+          <div className="space-y-9">
             <h3 className="text-5xl md:text-6xl font-black leading-tight text-balance">
               <span className="text-primary">Mensualidad justa.</span> Comisiones cero. <span className="text-primary">Impacto nacional.</span>
             </h3>

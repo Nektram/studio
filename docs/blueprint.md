@@ -13,10 +13,11 @@
 ## Core Features:
 
 - **Suscripción Sin Comisiones al Restaurante:** $400/mes fijo, sin comisiones por pedido
+- **Micrositio Profesional Incluido:** Cada restaurante recibe tuRestaurante.studio-mars.net - sitio web completo con menú digital, pedidos en línea, WhatsApp y redes sociales
 - **Conexión Directa:** Restaurantes conectados con repartidores locales independientes
 - **Pagos Flexibles:** Efectivo, transferencia bancaria, tarjetas de crédito
   - *Transparencia en Tarifas al Cliente:* El cliente paga solo 1.32% promedio ponderado por procesamiento de pagos en el checkout (40% tarjeta 2.54%, 30% transferencia 1%, 30% efectivo 0%). Esta tarifa mínima cubre costos operativos, tecnológicos y de seguridad.
-  - *Comparación:* Las grandes plataformas cobran 42% al restaurante + 7-8% al cliente. Nosotros: $400/mes al restaurante + 1.32% al cliente.
+  - *Comparación:* Las grandes plataformas cobran 42% al restaurante + 7-8% al cliente. Nosotros: $400/mes al restaurante + 1.32% al cliente + sitio web profesional incluido.
 - **Tecnología Propia:** Plataforma web + app móvil desarrollada por Studio Mars
 - **Legal y Seguro:** En proceso de registro RESICO, operaciones dentro del marco legal mexicano
 
@@ -61,13 +62,18 @@
 - **Visual:** Comparación lado a lado con animaciones
 
 ### Slide 4: BENEFICIOS COMPLETOS
+- **Planes Flexibles:** Impulso ($400/mes), Crecimiento ($750/mes), Éxito Pro ($999/mes)
+  - *Impulso:* Para restaurantes empezando o volumen bajo
+  - *Crecimiento:* Para expansión con mayor volumen  
+  - *Éxito Pro:* Para alto volumen con características premium
 - **Pagos Flexibles:** Efectivo, transferencia, tarjeta
   - *Transparencia:* Cliente paga solo 1.32% promedio en checkout (vs 7-8% de competencia)
-  - *Restaurante:* $400/mes fijo (vs 42% de comisión de competencia)
+  - *Restaurante:* Suscripción fija (vs 42% de comisión de competencia)
+- **Micrositio Profesional Incluido:** tuRestaurante.studio-mars.net con menú digital, pedidos en línea, WhatsApp, mapas de delivery y presencia profesional
 - **Repartidores Locales:** Independientes de San Luis Potosí
 - **Legal:** Proceso RESICO en marcha
 - **Tecnología:** Plataforma completa funcionando
-- **Visual:** Iconos con animaciones secuenciales
+- **Visual:** Iconos con animaciones secuenciales + ejemplo de micrositio + planes de precios
 
 ### Slide 5: MODELO DE NEGOCIO
 - **Suscripción al Restaurante:** $400/mes fijo

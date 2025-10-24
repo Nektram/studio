@@ -42,7 +42,7 @@ Con el premio de CREO MX, contrataría a 2 personas de ventas para acelerar esto
 
 También desarrollamos proyectos one-time: **Ground Zero** ($10,500) y **Evolve Pro** ($16,500) para restaurantes que quieren presencia digital completa.
 
-Pero aquí está lo importante: incluso con solo 2 pedidos de $500 al día, con el plan Impulso de $400/mes vs el 42% de comisión de las apps tradicionales, ahorran más de $8,000 al mes. Además, nosotros invertimos en campañas de marketing digital de godelivery.app donde aparece su restaurante, atrayendo clientes directos a su negocio. Son solo $400 al mes, menos de lo que muchos gastan en entretenimiento. Es inversión, no gasto.
+Pero aquí está lo importante: incluso con solo 2 pedidos de $500 al día, con el plan Impulso de $400/mes vs el 42% de comisión de las apps tradicionales, ahorran más de $8,000 al mes. **Además, reciben un micrositio profesional tuRestaurante.studio-mars.net incluido en el precio** - un sitio web completo con menú digital, pedidos en línea y WhatsApp. Esto les permite vender directamente a clientes sin depender de las apps, creando un canal de ventas adicional que justifica el precio. Son solo $400 al mes, menos de lo que muchos gastan en entretenimiento. Es inversión, no gasto.
 
 ---
 
@@ -68,6 +68,7 @@ Pero aquí está lo importante: incluso con solo 2 pedidos de $500 al día, con 
 **R:** Conozco a algunos competidores, pero tienen problemas clave:
 - **Modelo híbrido:** Cobran suscripción PERO también comisiones altas. Eso confunde al cliente. Nosotros somos transparentes: $400/mes al restaurante + 1.32% al cliente en checkout únicamente.
 - **Cobran a ambos lados:** Muchos cobran al restaurante Y al cliente. Nosotros cobramos al restaurante la suscripción fija y al cliente solo el costo real de procesamiento de pagos.
+- **No incluyen presencia digital:** La mayoría solo ofrecen delivery. **Nosotros incluimos un micrositio profesional tuRestaurante.studio-mars.net con cada plan** - sitio web completo, menú digital y pedidos en línea. Esto crea un canal de ventas adicional que justifica nuestro precio.
 - **No tienen tecnología propia:** Dependen de integraciones con plataformas de terceros. Nosotros controlamos todo el stack tecnológico.
 - **No conocen el mercado local:** Son equipos de CDMX tratando de escalar sin entender las necesidades de restaurantes de ciudades medianas. Yo nací, estudio y vivo en San Luis. Conozco a mis clientes.
 
@@ -101,6 +102,7 @@ Ya probé esto con un colaborador en una zona de San Luis que yo no conocía bie
 **R:** La tecnología está completamente operativa y validada:
 - **App de repartidores:** **YA ESTÁ PUBLICADA Y DISPONIBLE EN GOOGLE PLAY STORE** (acabamos de recibir la aprobación). Los repartidores ya pueden descargarla y usarla.
 - **Plataforma web:** godelivery.app está funcionando 100% con sistema de pagos integrado.
+- **Micrositios profesionales:** Cada restaurante recibe tuRestaurante.studio-mars.net - sitio web completo con menú digital, pedidos en línea, WhatsApp, mapas de delivery y presencia profesional. Ya hemos creado varios para nuestros restaurantes activos.
 - **Sistema actual:** Por el momento también usamos un grupo de WhatsApp como backup, lo que demuestra que el modelo funciona incluso con tecnología simple. La app automatiza todo y lo hace más profesional.
 
 Esto nos da una ventaja competitiva enorme: tecnología propia, escalable y ya validada en producción. No dependemos de terceros ni de integraciones complicadas.
@@ -111,15 +113,11 @@ Esto nos da una ventaja competitiva enorme: tecnología propia, escalable y ya v
 
 **R:** No es una competencia de "o nosotros o ellos". Nuestro modelo permite que los restaurantes **usen ambas plataformas:**
 - **Uber Eats** les trae clientes nuevos que descubren el restaurante por primera vez. El problema es que Uber Eats cobra 42% al restaurante + 7-8% al cliente como "tarifa de servicio" en el checkout.
-- **Con nosotros**, los restaurantes migran a esos clientes como recurrentes. El restaurante paga solo $400/mes y el cliente solo 1.32% en el checkout. Pueden ofrecer mejores precios porque no están inflados por comisiones abusivas.
+- **Con nosotros**, los restaurantes migran a esos clientes como recurrentes. El restaurante paga solo $400/mes y el cliente solo 1.32% en el checkout. **Además, reciben un micrositio profesional que les permite vender directamente sin depender de las apps** - pedidos online 24/7 y WhatsApp directo. Pueden ofrecer mejores precios porque no están inflados por comisiones abusivas.
 
 **Seamos claros sobre nuestra estructura de costos:**
-- **Al restaurante:** $400/mes de suscripción, sin comisiones por pedido
+- **Al restaurante:** $400/mes de suscripción, sin comisiones por pedido + micrositio profesional incluido
 - **Al cliente:** 1.32% promedio ponderado en el checkout por procesamiento de pagos (40% tarjeta 2.54%, 30% transferencia 1%, 30% efectivo 0%). Esta tarifa mínima cubre costos operativos, tecnológicos y de seguridad.
-
-**Comparación completa:**
-- **Competencia:** 42% al restaurante + 7-8% al cliente = Ambos pierden
-- **Nosotros:** $400/mes al restaurante + 1.32% al cliente = Ambos ganan
 
 De hecho, varios de nuestros restaurantes siguen en Uber Eats pero han reducido su dependencia. Eso ya es una victoria para ellos y para nosotros. Al final, el cliente gana porque paga menos, y el restaurante gana porque se queda con más.
 
@@ -156,6 +154,24 @@ Esto me da una ventaja enorme: no dependo de desarrolladores externos para itera
 3. **Plan de contingencia:** Si hay un problema crítico, tengo un sistema de respaldo donde los restaurantes pueden tomar pedidos por WhatsApp y los repartidores reciben las órdenes por mensaje.
 
 Hasta ahora, en 8 meses operando, no hemos tenido una caída.
+
+---
+
+## 🌐 PREGUNTAS SOBRE PRESENCIA DIGITAL Y MICROSITIOS
+
+### **P: "¿Qué incluye exactamente el micrositio que dan a los restaurantes?"**
+
+**R:** Cada restaurante recibe un sitio web profesional personalizado tuRestaurante.studio-mars.net que incluye:
+- **Diseño profesional responsive** con la identidad del restaurante
+- **Menú digital completo** con fotos, descripciones y precios
+- **Sistema de pedidos en línea** con WhatsApp directo
+- **WhatsApp directo** para consultas y pedidos
+- **Información de delivery** con mapas de cobertura
+- **Métodos de pago** y horarios de atención
+- **Integración con redes sociales** del restaurante
+- **SEO local optimizado** para aparecer en búsquedas de Google
+
+Esto no es solo un sitio web bonito - es un **canal de ventas adicional** que funciona 24/7. Los restaurantes pueden vender directamente sin depender de las apps de delivery. El costo de desarrollo de un sitio así normalmente es de $15,000-$30,000, pero nosotros lo incluimos gratis en nuestros planes de $400/mes.
 
 ---
 

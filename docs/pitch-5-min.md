@@ -40,11 +40,18 @@ SLIDE #2 PLANTEANDO EL PROBLEMA
 
 
 > SLIDE #4 BENEFICIOS
-> Y los beneficios van más allá del ahorro:
-> - Los restaurantes pueden recibir pagos en efectivo, transferencia o pagos con tarjeta
-> - Somos como ese conector directo entre restaurantes y repartidores independientes locales
-> - Y lo más importante: operamos dentro del marco legal mexicano, con un proceso de registro en RESICO, asegurando que el valor **se queda y se reinvierte en México.**
-> - **Seamos transparentes:** El cliente paga únicamente 1.32% promedio por procesamiento de pagos en el checkout. Esta tarifa mínima cubre costos operativos, tecnológicos y de seguridad. **Versus el 7-8% que cobran las grandes plataformas al cliente, más el 42% que le quitan al restaurante.**
+> Y los beneficios van más allá del ahorro. **Tenemos 3 planes flexibles:**
+> - **Plan Impulso** - $400/mes para restaurantes empezando o con volumen bajo
+> - **Plan Crecimiento** - $750/mes para expansión con mayor volumen
+> - **Plan Éxito Pro** - $999/mes para alto volumen con características premium
+>
+> **Y todos incluyen:**
+> - **Micrositio profesional:** Cada restaurante recibe su propio sitio web tuRestaurante.studio-mars.net con menú digital, pedidos en línea, WhatsApp y presencia profesional que atrae clientes 24/7
+> - **Pagos flexibles:** Efectivo, transferencia o tarjeta
+> - **Repartidores locales:** Conexión directa entre restaurantes y repartidores independientes de la zona
+> - **Operación legal:** Proceso de registro en RESICO en marcha, asegurando que el valor **se queda y se reinvierte en México**
+> 
+> **Seamos transparentes:** El cliente paga únicamente 1.32% promedio por procesamiento de pagos en el checkout. Esta tarifa mínima cubre costos operativos, tecnológicos y de seguridad. **Versus el 7-8% que cobran las grandes plataformas al cliente, más el 42% que le quitan al restaurante.**
 
 
 
@@ -111,7 +118,9 @@ SLIDE #7 EXPERIENCIA
 > SLIDE #8 NUESTRAS DEFENSAS
 > **La clave está en el conocimiento local.** Uber, Rappi o Didi viene de afuera con una fórmula general, pero yo conozco exactamente lo que necesitan los restaurantes mexicanos.
 > 
-> ¿Saben qué pasa cuando un restaurante se acostumbra a nuestra plataforma? **No se quiere cambiar.** Porque toda su operación ya está integrada con nosotros.
+> **Y les damos presencia digital profesional:** Cada restaurante recibe su micrositio tuRestaurante.studio-mars.net - no solo delivery, sino un canal de ventas completo con menú online, pedidos directos y marketing digital integrado. Esto crea switching costs enormes porque una vez que tienen su sitio profesional, no quieren volver a depender solo de las apps.
+> 
+> ¿Saben qué pasa cuando un restaurante se acostumbra a nuestra plataforma? **No se quiere cambiar.** Porque toda su operación ya está integrada con nosotros: delivery, sitio web, marketing, relación con repartidores.
 > 
 > Y nosotros vamos colonia por colonia, conociendo a cada restaurante. **Eso no lo puede replicar esas empresa desde Estados Unidos.**
 > 
