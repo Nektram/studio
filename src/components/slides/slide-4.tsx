@@ -196,17 +196,17 @@ export function Slide4() {
               </p>
               <div className="grid md:grid-cols-3 gap-4">
                 <div className="text-center space-y-1">
-                  <Badge variant="secondary" className="text-xs">Emprendiendo</Badge>
+                  <Badge variant="secondary" className="text-xs">Impulso</Badge>
                   <p className="text-2xl font-bold text-primary">$400<span className="text-sm text-muted-foreground">/mes</span></p>
                   <p className="text-xs text-muted-foreground">Volumen bajo</p>
                 </div>
                 <div className="text-center space-y-1 border-x border-primary/20 px-2">
-                  <Badge variant="default" className="text-xs">Popular</Badge>
+                  <Badge variant="default" className="text-xs">Crecimiento</Badge>
                   <p className="text-2xl font-bold text-primary">$750<span className="text-sm text-muted-foreground">/mes</span></p>
                   <p className="text-xs text-muted-foreground">En expansión</p>
                 </div>
                 <div className="text-center space-y-1">
-                  <Badge variant="secondary" className="text-xs">Premium</Badge>
+                  <Badge variant="secondary" className="text-xs">Éxito Pro</Badge>
                   <p className="text-2xl font-bold text-primary">$999<span className="text-sm text-muted-foreground">/mes</span></p>
                   <p className="text-xs text-muted-foreground">Alto volumen</p>
                 </div>

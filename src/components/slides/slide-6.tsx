@@ -151,6 +151,14 @@ export function Slide6() {
           >
             Business Research Insights (2025): 55% adopción plataformas delivery
           </a>
+          <a
+            href="https://dplnews.com/solo-10-de-los-restaurantes-en-mexico-estan-digitalizados/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block text-[11px] text-muted-foreground/75 hover:text-muted-foreground mt-0.5 underline-offset-2 hover:underline"
+          >
+            DPL News (2025): Solo 10% de restaurantes digitalizados en México
+          </a>
         </div>
       </div>
     </SlideWrapper>
